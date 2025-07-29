@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Hey, I’m p3aches
+# Hey, I’m Ferg
 
 A cybersecurity enthusiast focused on **adversary emulation**, **red teaming**, and **breaking systems to understand them**.
 
